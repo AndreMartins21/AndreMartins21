@@ -8,20 +8,31 @@
 # André Augusto Moreira Martins
 
 
-###   Sobre mim  👨‍💻
+##   Sobre mim  👨‍💻
 - Me chamo André, tenho 17 anos e sou um estudante de Data Science. 
 Formei o Ensino Médio em 2020 e estou no aguardo para o resultado do ENEM. Almejo cursar Estatística ou Ciência da Computação para que eu possa desenvolver minhas habilidades na área de ciências de dados;
 
 - Sobre os meus estudos nessa área, atualmente estou aprendendo acerca das principais bibliotecas de Python para aprofundamento em Machine Learning / AI, sendo elas: Pandas, Numpy, Tensorflow e Matplotlib. Ademais, comecei os estudos em Bancos de dados, iniciando por MySQL e MongoDB.
 
-###  Tecnologias que utilizo  
+
+
+## Projetos:
+
+* **Primeira análise de Dados:** https://bit.ly/3rLrsCu
+
+* **Jogo da Forca com palavras customizáveis em Python:** https://bit.ly/3mceyw9
+ 
+* **Meus estudos sobre a library Matplotlib:** https://bit.ly/31EIMhS
+
+
+##  Tecnologias que utilizo  
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)    ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)  
 
 
 
 
-#### 📚 Em aprendizagem... 
+### 📚 Em aprendizagem... 
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)
