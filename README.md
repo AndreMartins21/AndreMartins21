@@ -10,13 +10,13 @@
 
 ##   Sobre mim  👨‍💻
 - Me chamo André, tenho 17 anos e sou um estudante de Data Science. 
-Formei o Ensino Médio em 2020 e estou no aguardo para o resultado do ENEM. Almejo cursar Estatística ou Ciência da Computação para que eu possa desenvolver minhas habilidades na área de ciências de dados;
+Formei o Ensino Médio em 2020 e estou no aguardo para o resultado do ENEM. Almejo cursar Estatística ou Ciência da Computação para que eu possa desenvolver minhas habilidades na área de ciência de dados;
 
 - Sobre os meus estudos nessa área, atualmente estou aprendendo acerca das principais bibliotecas de Python para aprofundamento em Machine Learning / AI, sendo elas: Pandas, Numpy, Tensorflow e Matplotlib. Ademais, comecei os estudos em Bancos de dados, iniciando por MySQL e MongoDB.
 
 
 
-## Projetos:
+## Projetos desenvolvidos:
 
 * **Primeira análise de Dados:** https://bit.ly/3rLrsCu
 
