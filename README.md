@@ -1,17 +1,13 @@
+[![Linkedin Badge](https://img.shields.io/badge/-André_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-martins-3a9520201/)](https://www.linkedin.com/in/andré-martins-3a9520201) [![Discord Badge](https://img.shields.io/badge/-André_Martins-7289da?style=flat-square&logo=Discord&logoColor=white&link)](https://discordapp.com/users/599995902857576448/)
+
 <a>
   <img src="https://github.com/AndreMartins21/AndreMartins21/blob/main/image_ai.jpg" width=60% height=120% margin-top= 2rem />
 </a>
 
 
-## 💻 📊 André Augusto Moreira Martins
+# André Augusto Moreira Martins
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-André_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-martins-3a9520201/)](https://www.linkedin.com/in/andré-martins-3a9520201) [![Discord Badge](https://img.shields.io/badge/-André_Martins-7289da?style=flat-square&logo=Discord&logoColor=white&link)](https://discordapp.com/users/599995902857576448/)
----
-
-### Olá! Seja muito bem-vindo(a) ao meu Github 👋
-
----
 ###   Sobre mim  👨‍💻
 - Me chamo André, tenho 17 anos e sou um estudante de Data Science. 
 Formei o Ensino Médio em 2020 e estou no aguardo para o resultado do ENEM. Almejo cursar Estatística ou Ciência da Computação para que eu possa desenvolver minhas habilidades na área de ciências de dados;
