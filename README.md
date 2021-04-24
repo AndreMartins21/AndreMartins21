@@ -18,6 +18,8 @@ Formei o Ensino Médio em 2020 e estou no aguardo para o resultado do ENEM. Alme
 
 ## Projetos desenvolvidos:
 
+* **Análise dos dados divulgados pelo SISU UFMG:** https://bit.ly/3tNN2Iw
+
 * **Analisando Dataset musical:** https://bit.ly/3rMgw7I
 
 * **Primeira análise de Dados:** https://bit.ly/3rLrsCu
