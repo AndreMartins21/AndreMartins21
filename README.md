@@ -28,10 +28,17 @@
  
 * **Meus estudos sobre a library Matplotlib:** https://bit.ly/31EIMhS
 
+---------------------------------------------------------------------------------------------
 
 ##  Tecnologias que utilizo  
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)    ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)  
+![Python](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg)  ![GitHub](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg)  ![MySQL](https://user-images.githubusercontent.com/64978311/118380162-196a3c00-b5b6-11eb-9d19-29756a61fc7f.png) ![image](https://user-images.githubusercontent.com/64978311/118380250-a44b3680-b5b6-11eb-979c-b87ffeff5b02.png)
+
+<div style="display: inline_block">
+  <a href="https://github.com/ArthurHydr">
+  <img align="center" alt="Arthur-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Arthur-Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
 
 
 
