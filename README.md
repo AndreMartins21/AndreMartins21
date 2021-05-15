@@ -32,18 +32,15 @@
 
 ##  Tecnologias que utilizo  
 
-![Python](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg)  ![GitHub](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg)  ![MySQL](https://user-images.githubusercontent.com/64978311/118380162-196a3c00-b5b6-11eb-9d19-29756a61fc7f.png) ![image](https://user-images.githubusercontent.com/64978311/118380250-a44b3680-b5b6-11eb-979c-b87ffeff5b02.png)
-
 <div style="display: inline_block">
-  <a href="https://github.com/ArthurHydr">
-  <img align="center" alt="Arthur-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Arthur-Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mysql" height="100" width="100" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+  <img align="center" alt="VSCode" height="70" width="80" src="https://user-images.githubusercontent.com/64978311/118380350-74e8f980-b5b7-11eb-8371-e01a562062a6.png">
+  <img align="center" alt="HTML5" height="80" width="100" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
+  <img align="center" alt="Colab" height="80" width="100" src="https://static.javatpoint.com/tutorial/google-colab/images/google-colab.png">
+  
 </div>
 
 
-
-
 ### 📚 Em aprendizagem... 
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)
