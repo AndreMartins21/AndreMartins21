@@ -9,12 +9,14 @@
 
 
 ##   Sobre mim  👨‍💻
-- Me chamo André, tenho 17 anos e sou um estudante de Data Science. 
-Formei o Ensino Médio em 2020 e estou no aguardo para o resultado do ENEM. Almejo cursar Estatística ou Ciência da Computação para que eu possa desenvolver minhas habilidades na área de ciência de dados;
 
-- Sobre os meus estudos nessa área, atualmente estou aprendendo acerca das principais bibliotecas de Python para aprofundamento em Machine Learning / AI, sendo elas: Pandas, Numpy, Tensorflow e Matplotlib. Ademais, comecei os estudos em Bancos de dados, iniciando por MySQL e MongoDB.
+- Me chamo André, tenho 17 anos e sempre procuro aprender algo novo;
 
+- Atualmente estou cursando Estatística na UFMG (previsão de graduação: 2025);
 
+- Um dos meus objetivos que mais almejo no ramo tecnológico é: utilizar a Ciência de Dados para decisões inteligentes de negócios e aprofundar no esplêndido universo da Inteligência Artificial.
+
+---------------------------------------------------------------------------------------------
 
 ## Projetos desenvolvidos:
 
