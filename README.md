@@ -45,5 +45,6 @@
 
 ### Em aprendizagem... 
 
-<img align="center" alt="MongoDB" height="70" width="70" src="https://i0.wp.com/blog.psantos.dev/wp-content/uploads/2016/03/mongodb.png">
+<img align="center" alt="MongoDB" height="80" width="90" src="https://img.icons8.com/color/452/mongodb.png">
+
 
