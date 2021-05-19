@@ -46,4 +46,5 @@
 <div style="display: inline_block">
 <img align="center" alt="MongoDB" height="80" width="90" src="https://img.icons8.com/color/452/mongodb.png">
 <img align="center" alt="Mysql" height="100" width="100" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img align="center" alt="R" height="85" width="90" src="https://www.r-project.org/logo/Rlogo.svg">  
 </div>
