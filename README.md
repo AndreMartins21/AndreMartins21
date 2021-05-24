@@ -1,9 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-André_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-martins-3a9520201/)](https://www.linkedin.com/in/andré-martins-3a9520201) [![Discord Badge](https://img.shields.io/badge/-André_Martins-7289da?style=flat-square&logo=Discord&logoColor=white&link)](https://discordapp.com/users/599995902857576448/)
 
-<a>
-  <img align="center" alt="PERFIL" height="200" width="500" src="https://github.com/AndreMartins21/AndreMartins21/blob/main/inteligencia_artificial.png">
-</a>
-
 
 # André Augusto Moreira Martins
 
