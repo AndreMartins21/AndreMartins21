@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-André_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-martins-3a9520201/)](https://www.linkedin.com/in/andré-martins-3a9520201) [![Discord Badge](https://img.shields.io/badge/-André_Martins-7289da?style=flat-square&logo=Discord&logoColor=white&link)](https://discordapp.com/users/599995902857576448/)
+[![Linkedin Badge](https://img.shields.io/badge/-André_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-martins-3a9520201/)](https://www.linkedin.com/in/andré-martins-3a9520201) [![Discord Badge](https://img.shields.io/badge/-André_Martins-7289da?style=flat-square&logo=Discord&logoColor=white&link)](https://discordapp.com/users/599995902857576448/)
 
 
 # 🧙‍♂️ SEJA MUITO BEM-VINDO(A) AO MEU PORTFÓLIO 🧙‍♂️
