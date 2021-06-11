@@ -11,7 +11,7 @@
 
 - Atualmente estou cursando **Estatística** na UFMG (previsão de graduação: 2025);
 
-- O objetivo que mais almejo no ramo tecnológico é: utilizar a Ciência de Dados e a programação para decisões inteligentes de negócios e aprofundar no esplêndido universo da Inteligência Artificial.
+- O objetivo que mais almejo no ramo tecnológico é: utilizar a Ciência de Dados / programação para decisões inteligentes de negócios e aprofundar no esplêndido universo da Inteligência Artificial.
 
 ---------------------------------------------------------------------------------------------
 
