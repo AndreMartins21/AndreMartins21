@@ -7,7 +7,7 @@
 
 ##   Sobre mim 
 
-- Chamo-me André, tenho 18 anos e sempre procuro aprender algo novo;
+- Chamo-me André, sempre procuro aprender algo novo;
 
 - Atualmente estou cursando **Estatística** na UFMG (previsão de graduação: 2024);
 
